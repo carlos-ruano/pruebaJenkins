@@ -1,4 +1,4 @@
-//package pruebaJenkins;
+package pruebaJenkins;
 
 public class Main {
 
